@@ -1,0 +1,7 @@
+{
+  "name": "UnstitchedV2",
+  "description": "An AI-powered ethical fashion assistant that scans clothing labels to analyze materials, brands, and supply chain risks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
